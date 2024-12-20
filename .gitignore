@@ -1,0 +1,6 @@
+.DS_Store?
+.DS_Store
+.env
+Gemfile.lock
+/public/images
+/data
